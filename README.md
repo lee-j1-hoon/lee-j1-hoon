@@ -2,8 +2,8 @@
 - Tôi đang học GitHub, 
 - Dự án nổi bật
 - Thông tin liên lạc
-  Facebook: https://www.facebook.com/lee.j1.h00n/
-  Instagram: https://www.instagram.com/lee_ji_hoon._/
+Facebook: https://www.facebook.com/lee.j1.h00n/
+Instagram: https://www.instagram.com/lee_ji_hoon._/
 <!--
 **lee-j1-hoon/lee-j1-hoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
